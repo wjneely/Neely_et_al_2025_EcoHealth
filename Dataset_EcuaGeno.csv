@@ -1,0 +1,465 @@
+Sample_ID,Year,Latitude,Longitude,Location,Group,Family,Genus,Species,Genotype,Geno_Fluorescence_Brazil,Geno_Fluorescence_GPL,Genotyped,Bd_Loads,Bd_Load_Log,Bd_status
+TSEC1062,2022,-0.077757,-80.150093,Lalo Loor,Anura,Strabomantidae,Pristimantis,achatinus,,1.031498166,0.996000488,0,0,0,0
+TSEC1063,2022,-0.077757,-80.150093,Lalo Loor,Anura,Strabomantidae,Pristimantis,achatinus,,1.023612348,0.989738817,0,0,0,0
+TSEC1064,2022,-0.077757,-80.150093,Lalo Loor,Anura,Strabomantidae,Pristimantis,achatinus,,1.047953185,1.016000859,0,0,0,0
+TSEC1065,2022,-0.077757,-80.150093,Lalo Loor,Anura,Strabomantidae,Pristimantis,achatinus,,1.037794824,1.002259309,0,0,0,0
+TSEC1066,2022,-0.077757,-80.150093,Lalo Loor,Anura,Strabomantidae,Pristimantis,achatinus,,1.035131117,1.004273928,0,0,0,0
+TSEC1067,2022,-0.077757,-80.150093,Lalo Loor,Anura,Strabomantidae,Pristimantis,achatinus,,1.02241058,1.004317753,0,0,0,0
+TSEC1068,2022,-0.077757,-80.150093,Lalo Loor,Anura,Strabomantidae,Pristimantis,achatinus,,1.027003523,1.000088189,0,0,0,0
+TSEC1069,2022,-0.077757,-80.150093,Lalo Loor,Anura,Strabomantidae,Pristimantis,achatinus,,1.031438607,1.008326795,0,0,0,0
+TSEC1071,2022,-0.077757,-80.150093,Lalo Loor,Anura,Bufonidae,Rhinella,marina,,1.016903387,0.985452073,0,0,0,0
+TSEC1074,2022,-0.077757,-80.150093,Lalo Loor,Anura,Strabomantidae,Pristimantis,achatinus,,1.031980704,1.002456967,0,0,0,0
+TSEC1075,2022,-0.077757,-80.150093,Lalo Loor,Anura,Strabomantidae,Barycholos,pulcher,,1.028209527,0.994419938,0,0,0,0
+TSEC1076,2022,-0.077757,-80.150093,Lalo Loor,Anura,Strabomantidae,Pristimantis,achatinus,,1.033212591,1.010822473,0,0,0,0
+TSEC1077,2022,-0.077757,-80.150093,Lalo Loor,Anura,Hylidae,Trachycephalus,sp,,1.033380026,1.004070162,0,480.4,2.682506086,1
+TSEC1079,2022,-0.077757,-80.150093,Lalo Loor,Anura,Strabomantidae,Pristimantis,achatinus,,1.00800207,0.980420891,0,0,0,0
+TSEC1080,2022,-0.077757,-80.150093,Lalo Loor,Anura,Strabomantidae,Pristimantis,achatinus,,1.024438232,0.985706569,0,0,0,0
+TSEC1081,2022,-0.077757,-80.150093,Lalo Loor,Anura,Strabomantidae,Pristimantis,achatinus,,1.041635757,0.994661126,0,4234,3.626853415,1
+TSEC1082,2022,-0.077757,-80.150093,Lalo Loor,Anura,Strabomantidae,Pristimantis,achatinus,,1.039942113,1.005324199,0,0,0,0
+TSEC1083,2022,-0.077757,-80.150093,Lalo Loor,Anura,Strabomantidae,Pristimantis,achatinus,,1.041737979,1.018835795,0,0,0,0
+TSEC1084,2022,-0.077757,-80.150093,Lalo Loor,Anura,Strabomantidae,Pristimantis,achatinus,,1.011412335,0.976253841,0,304.7,2.485295439,1
+TSEC1085,2022,-0.077757,-80.150093,Lalo Loor,Anura,Strabomantidae,Pristimantis,achatinus,,1.014195291,0.97703665,0,0,0,0
+TSEC1086,2022,-0.077757,-80.150093,Lalo Loor,Anura,Strabomantidae,Pristimantis,achatinus,,1.01182038,0.982573013,0,0,0,0
+TSEC1087,2022,-0.077757,-80.150093,Lalo Loor,Anura,Strabomantidae,Pristimantis,achatinus,,1.013367461,0.963708488,0,316.5,2.50174373,1
+TSEC1090,2022,-0.077757,-80.150093,Lalo Loor,Anura,Hylidae,Trachycephalus,jordani,,1.021576026,0.973695167,0,0,0,0
+TSEC1097,2022,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.018131472,0.987078867,0,0,0,0
+TSEC1098,2022,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.023179941,0.980439088,0,0,0,0
+TSEC1099,2022,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,sp,,1.050784478,1.059072198,0,0,0,0
+TSEC1100,2022,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,BdGPL,1.1914185,4.055153883,1,1906,3.280350693,1
+TSEC1101,2022,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,walkeri,,1.032122697,0.987061821,0,0,0,0
+TSEC1102,2022,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.029100859,0.977569127,0,1153,3.062205809,1
+TSEC1103,2022,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.008633755,0.974930214,0,0,0,0
+TSEC1104,2022,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.022371906,0.986681184,0,0,0,0
+TSEC1105,2022,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.020734207,0.986862743,0,0,0,0
+TSEC1106,2022,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,sp,,1.023207779,0.985926881,0,151.3,2.182699903,1
+TSEC1107,2022,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,BdGPL,1.162749012,3.983425655,1,1774,3.249198357,1
+TSEC1108,2022,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.016566893,0.976143431,0,0,0,0
+TSEC1110,2022,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.022472067,0.985976865,0,7.372,0.92282922,1
+TSEC1111,2022,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.087937193,1.010600935,0,0,0,0
+TSEC1269,2022,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,achatinus,,1.023242736,0.994378384,0,0,0,0
+TSEC1270,2022,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,achatinus,,1.025731835,0.986708061,0,26.85,1.4448252,1
+TSEC1271,2022,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,achatinus,,1.020796298,0.979344418,0,0,0,0
+TSEC1272,2022,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,achatinus,,1.018408155,0.985180049,0,2008,3.302979937,1
+TSEC1273,2022,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,sp,BdGPL,1.076543909,2.484936834,1,177.2,2.2509077,1
+TSEC1274,2022,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,achatinus,,1.015034337,0.974866101,0,0,0,0
+TSEC1275,2022,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,achatinus,,1.033782895,0.98602314,0,0,0,0
+TSEC1276,2022,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,achatinus,,1.04810116,0.990139617,0,0,0,0
+TSEC1277,2022,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,achatinus,BdGPL,1.15993514,3.709983807,1,2136,3.329804522,1
+TSEC1278,2022,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,achatinus,,1.029942803,1.011058706,0,0,0,0
+TSEC1279,2022,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,achatinus,,1.015997437,0.982904029,0,5204,3.716420734,1
+TSEC1280,2022,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,achatinus,,1.03864449,1.004317986,0,0,0,0
+TSEC1281,2022,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,achatinus,,1.000119674,0.966116315,0,0,0,0
+TSEC1282,2022,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,sp,,1.002010287,0.970119481,0,0,0,0
+TSEC1283,2022,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,achatinus,,1.011996863,0.955387714,0,0,0,0
+TSEC1285,2022,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,achatinus,,1.018259881,0.982116042,0,414.5,2.618571028,1
+TSEC1286,2022,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,achatinus,,1.027898679,0.995630717,0,0,0,0
+TSEC1287,2022,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,achatinus,,1.018500379,0.95979192,0,0,0,0
+TSEC1288,2022,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,achatinus,BdGPL,1.084800274,2.3008887,1,1115,3.047664195,1
+TSEC1289,2022,-0.080402,-78.829204,Saloya,Anura,Hylidae,Scinax,sp,,1.016939436,0.970320327,0,0,0,0
+TSEC1290,2022,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,sp,,1.020012017,0.983136693,0,0,0,0
+TSEC1291,2022,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,sp,,1.010016404,0.952100507,0,5351,3.728516105,1
+TSEC1292,2022,-0.080402,-78.829204,Saloya,Anura,Hylidae,Boana,pellucens,,1.034920083,0.998521503,0,0,0,0
+TSEC1343,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.037161641,1.01612681,0,0,0,0
+TSEC1344,2021,0.165637,-78.879234,Mashpi,Anura,Craugastoridae,Craugastor,longirostris,,1.022522542,0.998236856,0,0,0,0
+TSEC1345,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.046434844,1.028644162,0,0,0,0
+TSEC1346,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,1.021862307,0.992941797,0,0,0,0
+TSEC1347,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,1.029762872,1.001531647,0,0,0,0
+TSEC1348,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,1.020023858,0.991439364,0,0,0,0
+TSEC1349,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.038285798,0.987675057,0,3.604,0.663135315,1
+TSEC1350,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.02189597,0.989958474,0,0,0,0
+TSEC1351,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,latidiscus,,1.038000505,1.360466636,0,2.111,0.492900011,1
+TSEC1352,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.012785614,0.983172259,0,0,0,0
+TSEC1353,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,latidiscus,,1.03815102,1.02710254,0,57.7,1.768638101,1
+TSEC1354,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,BdGPL,1.072967834,2.249669261,1,148.9,2.175801633,1
+TSEC1355,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,latidiscus,,1.032282166,0.99766898,0,3.086,0.611298362,1
+TSEC1356,2021,0.165637,-78.879234,Mashpi,Anura,Bufonidae,Rhinella,marina,,1.034821768,1.006942573,0,0,0,0
+TSEC1357,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,1.024240959,0.990089561,0,0,0,0
+TSEC1358,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,1.02377904,0.999129633,0,0,0,0
+TSEC1359,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,BdGPL,1.045703167,1.718506724,1,6.093,0.85082996,1
+TSEC1360,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,1.030386042,1.001376579,0,0,0,0
+TSEC1361,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,1.028631292,0.996145524,0,3.082,0.610873,1
+TSEC1362,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,BdGPL,1.123225374,3.082615645,1,126.9,2.106870544,1
+TSEC1363,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,1.034842652,1.008944805,0,4.751,0.759743368,1
+TSEC1364,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,sp,,1.027824272,0.998628056,0,0,0,0
+TSEC1365,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,1.007873948,0.977176521,0,0,0,0
+TSEC1366,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,1.023682353,0.989328788,0,0,0,0
+TSEC1367,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,1.028604843,0.999510645,0,0,0,0
+TSEC1368,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,1.026733865,0.994684234,0,0,0,0
+TSEC1369,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,1.027608485,0.997435325,0,0,0,0
+TSEC1370,2021,0.165637,-78.879234,Mashpi,Anura,Craugastoridae,Craugastor,longirostris,,1.019435695,0.989739531,0,0,0,0
+TSEC1371,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,1.031421858,1.000670062,0,0,0,0
+TSEC1372,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,BdGPL,1.056683284,1.535630252,1,28.55,1.470557485,1
+TSEC1373,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,BdGPL,1.042491531,1.661124866,1,42.4,1.63748973,1
+TSEC1374,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,BdGPL,1.043558353,1.511559477,1,12.1,1.117271296,1
+TSEC1375,2021,0.165637,-78.879234,Mashpi,Anura,Craugastoridae,Craugastor,longirostris,,1.031360964,1.004760618,0,0,0,0
+TSEC1425,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,latidiscus,,1.016283632,1.004482323,0,0,0,0
+TSEC1426,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,luteolateralis,,1.028067612,0.991933157,0,0,0,0
+TSEC1427,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,latidiscus,,1.029947025,1.125739979,0,31.88,1.516931809,1
+TSEC1428,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,sp,,1.03770687,1.202093943,0,8.301,0.968529644,1
+TSEC1429,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,luteolateralis,,1.021527162,1.003570376,0,0,0,0
+TSEC1430,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.023358786,0.982922475,0,4.779,0.761852694,1
+TSEC1431,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.026922794,1.013756422,0,3.684,0.670616886,1
+TSEC1432,2021,0.165637,-78.879234,Mashpi,Anura,Craugastoridae,Craugastor,longirostris,,1.026095816,0.994374267,0,0,0,0
+TSEC1433,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,sp,,1.02635873,1.050060915,0,8.614,0.982904118,1
+TSEC1434,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,latidiscus,,1.029194194,0.985677934,0,0,0,0
+TSEC1435,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,latidiscus,,1.030625616,0.992853463,0,0,0,0
+TSEC1436,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,luteolateralis,,1.026658573,0.981212025,0,0,0,0
+TSEC1437,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,latidiscus,,1.023051801,0.994978841,0,0,0,0
+TSEC1438,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.030071774,0.987471864,0,0,0,0
+TSEC1439,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,latidiscus,,1.037360694,1.003201016,0,0,0,0
+TSEC1440,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,latidiscus,,1.025533815,0.985431474,0,0,0,0
+TSEC1441,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,subsigillatus,,1.019985011,0.969724542,0,0,0,0
+TSEC1442,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,BdGPL,1.048547713,1.76454599,1,266.6,2.427486109,1
+TSEC1443,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.032919671,0.994035276,0,5.524,0.814513952,1
+TSEC1444,2021,0.165637,-78.879234,Mashpi,Anura,Craugastoridae,Craugastor,longirostris,,1.02224916,1.062225636,0,5.96,0.84260924,1
+TSEC1445,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.0219444,0.980865826,0,0,0,0
+TSEC1446,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.040067497,1.009723058,0,0,0,0
+TSEC1447,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.030239863,0.991888497,0,0,0,0
+TSEC1448,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.038937429,1.007331496,0,8.819,0.99206726,1
+TSEC1449,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.027425974,0.996256968,0,0,0,0
+TSEC1450,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.038845851,1.00805288,0,0,0,0
+TSEC1451,2021,-0.116799,-80.122493,JCR,Anura,Hylidae,Smilisca,phaeota,,1.035969038,1.007986678,0,0,0,0
+TSEC1452,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.035192124,0.996711746,0,0,0,0
+TSEC1453,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.030908827,0.998655127,0,18.62,1.292699003,1
+TSEC1454,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.046521224,1.022005762,0,0,0,0
+TSEC1455,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.020142191,1.019422466,0,0,0,0
+TSEC1456,2021,-0.116799,-80.122493,JCR,Anura,Centrolenidae,Espadarana,prosoblepon,,1.033960571,0.997418414,0,0,0,0
+TSEC1457,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.036699446,1.005437501,0,0,0,0
+TSEC1458,2021,-0.116799,-80.122493,JCR,Anura,Hylidae,Smilisca,phaeota,,1.028098045,1.003986566,0,0,0,0
+TSEC1459,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.038955706,1.006290824,0,0,0,0
+TSEC1460,2021,-0.116799,-80.122493,JCR,Anura,Bufonidae,Rhinella,horribilis,,1.03376968,1.042153773,0,0,0,0
+TSEC1461,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.030896224,0.998866667,0,0,0,0
+TSEC1462,2021,-0.116799,-80.122493,JCR,Anura,Centrolenidae,Hyalinobatrachium,fleischmanni,,1.025567585,0.987303286,0,0,0,0
+TSEC1463,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.029656762,0.99232002,0,0,0,0
+TSEC1464,2021,-0.116799,-80.122493,JCR,Anura,Centrolenidae,Hyalinobatrachium,fleischmanni,,1.029664696,0.996061357,0,0,0,0
+TSEC1465,2021,-0.116799,-80.122493,JCR,Anura,Centrolenidae,Hyalinobatrachium,fleischmanni,,1.032570787,0.993536949,0,0,0,0
+TSEC1466,2021,-0.116799,-80.122493,JCR,Anura,Centrolenidae,Espadarana,prosoblepon,,1.030686431,0.99680715,0,0,0,0
+TSEC1467,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.032533902,1.031525666,0,0,0,0
+TSEC1468,2021,-0.116799,-80.122493,JCR,Anura,Centrolenidae,Espadarana,prosoblepon,,1.03355023,1.001135228,0,0,0,0
+TSEC1469,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.037630995,1.014215084,0,0,0,0
+TSEC1470,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.026762898,0.988130958,0,0,0,0
+TSEC1471,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,1.027520103,0.965417518,0,0,0,0
+TSEC3167,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.021345039,0.994031111,0,0,0,0
+TSEC3168,2023,-0.080402,-78.829204,Saloya,Anura,Leptodactylidae,Leptodactylus,,,1.028609328,1.004253934,0,0.1286,0.052540046,1
+TSEC3169,2023,-0.080402,-78.829204,Saloya,Anura,Hylidae,Dendropsophus,,,1.021230804,0.987073524,0,3.167,0.6198235,1
+TSEC3170,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.040182666,1.342008314,0,40.62,1.619302076,1
+TSEC3171,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,BdGPL,1.160756903,4.076325718,1,1471,3.16790781,1
+TSEC3172,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.025881549,0.9960469,0,0,0,0
+TSEC3173,2023,-0.080402,-78.829204,Saloya,Anura,Leptodactylidae,Leptodactylus,,,1.024120078,0.995831358,0,0,0,0
+TSEC3174,2023,-0.080402,-78.829204,Saloya,Anura,Leptodactylidae,Leptodactylus,,,1.033028624,1.008883428,0,0,0,0
+TSEC3175,2023,-0.080402,-78.829204,Saloya,Anura,Leptodactylidae,Leptodactylus,,,1.018351748,0.988555706,0,1.893,0.461348434,1
+TSEC3177,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.023728551,0.991315779,0,13.85,1.171726454,1
+TSEC3178,2023,-0.080402,-78.829204,Saloya,Anura,Hylidae,Dendropsophus,,,1.026137175,0.987422307,0,0.5716,0.19634202,1
+TSEC3180,2023,-0.080402,-78.829204,Saloya,Anura,Hylidae,Dendropsophus,,,1.006748306,0.978133846,0,0,0,0
+TSEC3181,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,0.999662427,0.970212146,0,0,0,0
+TSEC3182,2023,-0.080402,-78.829204,Saloya,Anura,Hylidae,Boana,,,1.002309963,0.97222696,0,0,0,0
+TSEC3183,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.006064881,0.982801632,0,0,0,0
+TSEC3184,2023,-0.080402,-78.829204,Saloya,Anura,Hylidae,Boana,,,1.016463723,0.992184701,0,0,0,0
+TSEC3185,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.016855536,0.991352503,0,0.3273,0.122969094,1
+TSEC3186,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,0.995425879,0.969169811,0,0,0,0
+TSEC3187,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.018419227,1.004819508,0,0,0,0
+TSEC3188,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.015715923,0.985076826,0,0,0,0
+TSEC3189,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.016432746,0.991485573,0,332,2.522444234,1
+TSEC3190,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.01875145,0.992123848,0,0,0,0
+TSEC3191,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.03775281,1.005784698,0,0,0,0
+TSEC3192,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.03858097,1.005736433,0,0,0,0
+TSEC3193,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.035249747,1.002609295,0,3.496,0.652826303,1
+TSEC3194,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.010694779,0.976072081,0,0,0,0
+TSEC3195,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.035136191,0.99870432,0,0,0,0
+TSEC3196,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.029477483,0.99257384,0,0,0,0
+TSEC3197,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.031308125,1.285406525,0,0,0,0
+TSEC3198,2023,-0.080402,-78.829204,Saloya,Anura,Bufonidae,Rhinella,,,1.032755051,0.992515093,0,0,0,0
+TSEC3199,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.032806775,1.004602309,0,0,0,0
+TSEC3200,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.03000748,1.014793412,0,0,0,0
+TSEC3201,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.044521584,1.390396991,0,6.615,0.881669908,1
+TSEC3202,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.025514756,1.001232138,0,0,0,0
+TSEC3203,2023,-0.080402,-78.829204,Saloya,Anura,Hylidae,Boana,,,1.02562084,1.000699238,0,0,0,0
+TSEC3204,2023,-0.080402,-78.829204,Saloya,Anura,Hylidae,Boana,,,1.027754265,0.998628232,0,0,0,0
+TSEC3205,2023,-0.080402,-78.829204,Saloya,Anura,Hylidae,Boana,,,1.023747752,1.000696974,0,0,0,0
+TSEC3206,2023,-0.080402,-78.829204,Saloya,Anura,Leptodactylidae,Leptodactylus,,,1.017232497,0.990648116,0,0,0,0
+TSEC3207,2023,-0.080402,-78.829204,Saloya,Anura,Leptodactylidae,Leptodactylus,,,1.027767526,0.999531077,0,0,0,0
+TSEC3208,2023,-0.080402,-78.829204,Saloya,Anura,Hylidae,Boana,,,1.023751047,0.991810126,0,0,0,0
+TSEC3209,2023,-0.080402,-78.829204,Saloya,Anura,Leptodactylidae,Leptodactylus,,,1.023793607,0.991007881,0,2.802,0.580012113,1
+TSEC3210,2023,-0.080402,-78.829204,Saloya,Anura,Hylidae,Boana,,,1.029978294,0.992825567,0,0,0,0
+TSEC3211,2023,-0.080402,-78.829204,Saloya,Anura,Hylidae,Boana,,,1.017101763,0.989213631,0,0,0,0
+TSEC3212,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.024024597,0.995244274,0,0,0,0
+TSEC3213,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,,1.028455306,1.006651124,0,0,0,0
+TSEC3214,2023,-0.080402,-78.829204,Saloya,Anura,Strabomantidae,Pristimantis,,BdGPL,1.066572769,2.542862917,1,162.7,2.214048679,1
+TSEC3334,2023,-0.638401033,-76.14338603,Tiputini,Anura,Leptodactylidae,Leptodactylus,sp,,1.014902626,0.991548065,0,0,0,0
+TSEC3335,2023,-0.638401033,-76.14338603,Tiputini,Anura,Leptodactylidae,Adenomera,andreae,,1.014040729,0.980768292,0,0,0,0
+TSEC3336,2023,-0.638401033,-76.14338603,Tiputini,Anura,Dendrobatidae,Ameerega,bilinguis,,1.01533981,0.986951686,0,0,0,0
+TSEC3337,2023,-0.638401033,-76.14338603,Tiputini,Anura,Hylidae,Osteocephalus,sp,,1.0163934,0.986053074,0,0,0,0
+TSEC3338,2023,-0.638401033,-76.14338603,Tiputini,Anura,Hylidae,Osteocephalus,sp,,1.013053944,0.98236019,0,0,0,0
+TSEC3339,2023,-0.638401033,-76.14338603,Tiputini,Anura,Bufonidae,Rhinella,margaritifera,,1.02140161,0.999461258,0,0,0,0
+TSEC3343,2023,-0.638401033,-76.14338603,Tiputini,Anura,Strabomantidae,Pristimantis,sp,,1.024463362,0.996744285,0,0,0,0
+TSEC3344,2023,-0.638401033,-76.14338603,Tiputini,Anura,Strabomantidae,Pristimantis,sp,,1.013370801,0.977327985,0,0,0,0
+TSEC3345,2023,-0.638401033,-76.14338603,Tiputini,Anura,Leptodactylidae,Engystomops,petersi,,1.017831679,0.982273506,0,0,0,0
+TSEC3346,2023,-0.638401033,-76.14338603,Tiputini,Anura,Leptodactylidae,Engystomops,petersi,,1.013444486,0.98397765,0,0,0,0
+TSEC3347,2023,-0.638401033,-76.14338603,Tiputini,Anura,Dendrobatidae,Ameerega,bilinguis,,1.003554206,0.969086994,0,0,0,0
+TSEC3348,2023,-0.638401033,-76.14338603,Tiputini,Anura,Strabomantidae,Pristimantis,sp,,1.006026414,0.983202858,0,0,0,0
+TSEC3349,2023,-0.638401033,-76.14338603,Tiputini,Anura,Leptodactylidae,Engystomops,petersi,,1.010026612,0.988475784,0,0,0,0
+TSEC3350,2023,-0.638401033,-76.14338603,Tiputini,Anura,Strabomantidae,Pristimantis,sp,,1.035748135,1.021205356,0,0,0,0
+TSEC3351,2023,-0.638401033,-76.14338603,Tiputini,Anura,Hylidae,Boana,sp,BdGPL,1.088004335,2.752364546,1,364.4,2.562768543,1
+TSEC3352,2023,-0.638401033,-76.14338603,Tiputini,Anura,Strabomantidae,Pristimantis,sp,BdGPL,1.050695558,1.887941064,1,182,2.26245109,1
+TSEC3353,2023,-0.638401033,-76.14338603,Tiputini,Anura,Strabomantidae,Pristimantis,sp,BdGPL,1.10441777,2.915190174,1,117,2.071882007,1
+TSEC3354,2023,-0.638401033,-76.14338603,Tiputini,Anura,Strabomantidae,Pristimantis,sp,BdGPL,1.043208295,1.716828008,1,69.97,1.851074805,1
+TSEC3358,2023,-0.638401033,-76.14338603,Tiputini,Anura,Hylidae,Osteocephalus,sp,,1.021253284,0.984538822,0,0,0,0
+TSEC3359,2023,-0.638401033,-76.14338603,Tiputini,Anura,Hylidae,Osteocephalus,vilmae,,1.023286699,0.989195811,0,0,0,0
+TSEC3360,2023,-0.638401033,-76.14338603,Tiputini,Anura,Strabomantidae,Pristimantis,sp,,1.012680115,0.982594451,0,0,0,0
+TSEC3361,2023,-0.638401033,-76.14338603,Tiputini,Anura,Leptodactylidae,Engystomops,petersi,,1.021136471,0.994071091,0,0,0,0
+TSEC3362,2023,-0.638401033,-76.14338603,Tiputini,Anura,Strabomantidae,Pristimantis,sp,,1.019983477,1.043944208,0,3.456,0.648945182,1
+TSEC3363,2023,-0.638401033,-76.14338603,Tiputini,Anura,Dendrobatidae,Ameerega,bilinguis,,1.033512619,1.422860111,0,27.56,1.455758203,1
+TSEC3364,2023,-0.638401033,-76.14338603,Tiputini,Anura,Dendrobatidae,Ameerega,bilinguis,BdGPL,1.040227219,1.669164581,1,21.66,1.355259906,1
+TSEC3365,2023,-0.638401033,-76.14338603,Tiputini,Anura,Hylidae,Boana,sp,,1.018287333,1.002692397,0,1.677,0.427648371,1
+TSEC3366,2023,-0.638401033,-76.14338603,Tiputini,Anura,Strabomantidae,Pristimantis,sp,,1.028579063,1.006526269,0,0,0,0
+TSEC3367,2023,-0.638401033,-76.14338603,Tiputini,Anura,Aromobatidae,Allobates,femoralis,,1.028771522,1.020893096,0,9.286,1.01224652,1
+TSEC3368,2023,-0.638401033,-76.14338603,Tiputini,Anura,Dendrobatidae,Ameerega,bilinguis,,1.025169775,1.007862137,0,0,0,0
+TSEC3369,2023,-0.638401033,-76.14338603,Tiputini,Anura,Strabomantidae,Oreobates,quixensis,,1.021271078,1.003136719,0,0,0,0
+TSEC3370,2023,-0.638401033,-76.14338603,Tiputini,Anura,Strabomantidae,Oreobates,quixensis,,1.028753369,1.006680306,0,0,0,0
+TSEC3371,2023,-0.638401033,-76.14338603,Tiputini,Anura,Strabomantidae,Pristimantis,sp,,1.026593319,1.001759064,0,0,0,0
+TSEC3372,2023,-0.638401033,-76.14338603,Tiputini,Anura,Hylidae,Boana,boans,,1.035179697,1.011901695,0,0,0,0
+TSEC3373,2023,-0.638401033,-76.14338603,Tiputini,Anura,Strabomantidae,Pristimantis,sp,,1.021541966,0.996621088,0,0,0,0
+TSEC3374,2023,-0.638401033,-76.14338603,Tiputini,Anura,Dendrobatidae,Ameerega,bilinguis,,1.02844829,0.999811775,0,4.266,0.721480855,1
+TSEC3375,2023,-0.638401033,-76.14338603,Tiputini,Anura,Dendrobatidae,Ameerega,bilinguis,,1.031418249,1.337481449,0,6.358,0.866759783,1
+TSEC3376,2023,-0.638401033,-76.14338603,Tiputini,Anura,Strabomantidae,Pristimantis,sp,,1.021994596,0.990736067,0,0,0,0
+TSEC3377,2023,-0.638401033,-76.14338603,Tiputini,Anura,Hylidae,Boana,sp,,1.014531885,0.984862765,0,0,0,0
+TSEC3378,2023,-0.638401033,-76.14338603,Tiputini,Anura,Strabomantidae,Pristimantis,sp,,1.017925188,0.993559437,0,0,0,0
+TSEC3379,2023,-0.638401033,-76.14338603,Tiputini,Caudata,Plethodontidae,Bolitoglossa,equatoriana,,1.010318733,0.969888986,0,0,0,0
+TSEC3380,2023,-0.638401033,-76.14338603,Tiputini,Anura,Hylidae,Osteocephalus,sp,,1.011305754,0.985942431,0,0,0,0
+TSEC3381,2023,-0.638401033,-76.14338603,Tiputini,Anura,Hylidae,Osteocephalus,sp,,1.017373489,0.977811102,0,0,0,0
+TSEC3408,2023,-1.331925,-77.877075,Zanja Arajuno,Caudata,Plethodontidae,Bolitoglossa,sp,,1.00819891,0.988410583,0,0,0,0
+TSEC3409,2023,-1.331925,-77.877075,Zanja Arajuno,Caudata,Plethodontidae,Bolitoglossa,sp,,1.008281465,0.982042712,0,0,0,0
+TSEC3410,2023,-1.331925,-77.877075,Zanja Arajuno,Caudata,Plethodontidae,Bolitoglossa,sp,,1.010338962,0.987376445,0,0,0,0
+TSEC3411,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Phyllomedusa,vaillantii,,0.991036761,0.960089591,0,0,0,0
+TSEC3412,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,1.012090988,0.992608688,0,0,0,0
+TSEC3413,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,1.002924949,0.986372246,0,0,0,0
+TSEC3414,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Dendropsophus,sarayacuensis,,1.005901677,0.98372889,0,981,2.992111488,1
+TSEC3415,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Oreobates,quixensis,,0.997532115,0.979705389,0,2.837,0.583991799,1
+TSEC3416,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Adenomera,andreae,BdGPL,1.044654062,2.117717806,1,36.22,1.570776369,1
+TSEC3417,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Boana,cinerascens,,1.012001122,0.989711889,0,0,0,0
+TSEC3418,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,petersi,,1.015624028,1.085682082,0,16.4,1.240549248,1
+TSEC3419,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,0.987258829,0.953686072,0,0,0,0
+TSEC3421,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Phyllomedusa,vaillantii,,1.008332549,0.983836116,0,0,0,0
+TSEC3422,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Dendropsophus,bifurcus,,0.999062846,0.970005357,0,2.74,0.572871602,1
+TSEC3423,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,petersi,,0.998141632,0.985316604,0,0,0,0
+TSEC3424,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,petersi,,1.000232486,0.983341269,0,0,0,0
+TSEC3425,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,1.006767962,0.981189768,0,0,0,0
+TSEC3426,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Scinax,garbei,,0.97288686,0.939375786,0,3.564,0.659345636,1
+TSEC3427,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,conspicillatus,BdGPL,1.226651224,4.945893602,1,5503,3.740678425,1
+TSEC3428,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,1.007748305,1.38592901,0,272.7,2.437274797,1
+TSEC3429,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Scinax,garbei,BdGPL,1.03795665,2.24715647,1,47.97,1.689930104,1
+TSEC3430,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Boana,cinerascens,,1.000231148,1.01857812,0,0.7496,0.24293877,1
+TSEC3431,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Dendropsophus,sp,,1.001263857,0.976011466,0,0,0,0
+TSEC3432,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Bufonidae,Rhinella,festae,,1.014861104,0.982917995,0,0,0,0
+TSEC3433,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Aromobatidae,Allobates,zaparo,,1.013490369,0.99147346,0,0,0,0
+TSEC3434,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Adenomera,andreae,,1.017124118,0.993519428,0,0,0,0
+TSEC3435,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,0.993751726,0.959322565,0,0,0,0
+TSEC3436,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Phyllomedusa,vaillantii,,0.994662988,0.970219496,0,0,0,0
+TSEC3437,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Boana,appendiculata,,1.007333116,0.975932524,0,0,0,0
+TSEC3438,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Boana,appendiculata,,0.993309824,0.964019246,0,0,0,0
+TSEC3439,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,petersi,,1.007430873,0.981904271,0,0,0,0
+TSEC3440,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Boana,appendiculata,,1.012258809,0.99239296,0,0,0,0
+TSEC3441,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Oreobates,quixensis,,0.999996348,0.976426621,0,4.508,0.740993932,1
+TSEC3442,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Boana,appendiculata,,1.004081843,0.979561448,0,0,0,0
+TSEC3443,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Boana,appendiculata,,1.017893983,1.00114693,0,0,0,0
+TSEC3444,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Leptodactylus,wagneri,,1.010731135,0.991429243,0,0,0,0
+TSEC3445,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Boana,appendiculata,BdGPL,1.124326408,3.660106075,1,388.5,2.590507462,1
+TSEC3446,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Boana,appendiculata,,1.01699494,1.167106588,0,7.91,0.949877704,1
+TSEC3447,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Boana,appendiculata,,1.006350837,0.990188306,0,0,0,0
+TSEC3448,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Boana,appendiculata,,1.006991848,0.986353311,0,0.8877,0.275932976,1
+TSEC3449,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Boana,appendiculata,,0.999640128,0.98079191,0,0,0,0
+TSEC3450,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,petersi,,0.999128405,0.980620342,0,0,0,0
+TSEC3451,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,petersi,,1.003366243,0.980212558,0,3.453,0.648652695,1
+TSEC3452,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Boana,appendiculata,,1.008478144,0.98681313,0,0,0,0
+TSEC3453,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Boana,appendiculata,BdGPL,1.06732103,2.675038522,1,44.07,1.653887558,1
+TSEC3454,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Boana,appendiculata,,1.012332197,0.958392228,0,0,0,0
+TSEC3455,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Boana,appendiculata,,1.009793216,0.980174919,0,0,0,0
+TSEC3456,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Boana,appendiculata,,1.011295215,0.975744781,0,0,0,0
+TSEC3457,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Boana,appendiculata,,1.010692346,0.975084325,0,0,0,0
+TSEC3458,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Boana,appendiculata,BdGPL,1.113119177,3.360250721,1,743.3,2.871748019,1
+TSEC3459,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,1.016281451,0.984142013,0,0,0,0
+TSEC3460,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,1.010187432,0.972542732,0,0,0,0
+TSEC3461,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,sp,BdGPL,1.117129588,3.326185545,1,434.2,2.638688887,1
+TSEC3462,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Phyllomedusa,vaillantii,,1.014712647,0.980932306,0,11.84,1.108565024,1
+TSEC3463,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,BdGPL,1.027867082,1.565094672,1,128.5,2.112269768,1
+TSEC3464,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,BdGPL,1.053759856,1.966751361,1,48.13,1.691346764,1
+TSEC3465,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,1.010894678,0.97514674,0,0,0,0
+TSEC3466,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,diadematus,BdGPL,1.264349382,4.819761112,1,9321,3.969509099,1
+TSEC3467,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,1.014786447,0.977432999,0,0,0,0
+TSEC3468,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,1.018014295,0.986000472,0,6.768,0.890309217,1
+TSEC3469,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Phyllomedusa,tarsius,,1.008320249,0.972164763,0,0,0,0
+TSEC3470,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,1.008092141,0.973470301,0,0,0,0
+TSEC3471,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,sp,,1.011414969,0.978830063,0,2.401,0.531606632,1
+TSEC3472,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,1.01712435,0.985539138,0,0,0,0
+TSEC3473,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Phyllomedusa,vaillantii,,1.020142904,0.98608844,0,0,0,0
+TSEC3474,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,sp,BdGPL,1.052970913,1.948477792,1,56.43,1.759138816,1
+TSEC3475,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,sp,BdGPL,1.04377462,1.746610392,1,69.72,1.849542252,1
+TSEC3476,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,BdGPL,1.232716698,4.545102564,1,6950,3.842047289,1
+TSEC3477,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,1.00980906,1.014943878,0,10.11,1.045714059,1
+TSEC3478,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Phyllomedusa,vaillantii,,1.014822523,0.981395921,0,0,0,0
+TSEC3479,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,1.007600505,0.980000562,0,0,0,0
+TSEC3480,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Bufonidae,Rhinella,festae,,1.008470967,0.970520283,0,0,0,0
+TSEC3481,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,1.022800812,0.993779379,0,4.73,0.758154622,1
+TSEC3482,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,1.023871822,0.993799184,0,0,0,0
+TSEC3483,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,1.017595109,0.984545375,0,0,0,0
+TSEC3484,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,sp,,1.013066344,0.973998847,0,0,0,0
+TSEC3485,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,sp,,1.022259223,0.989365522,0,0,0,0
+TSEC3486,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Phyllomedusa,vaillantii,,1.015555875,0.980160547,0,0,0,0
+TSEC3487,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Phyllomedusa,sp,,1.011323567,0.978617541,0,0,0,0
+TSEC3488,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,sp,,1.013868575,1.001619278,0,14.89,1.201123897,1
+TSEC3489,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,1.015663979,0.987379383,0,0,0,0
+TSEC3490,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,1.015489269,0.96380407,0,0,0,0
+TSEC3491,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,1.0123209,0.97523763,0,0,0,0
+TSEC3492,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,sp,BdGPL,1.051993738,1.886165145,1,212.9,2.330210785,1
+TSEC3493,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,BdGPL,1.113276108,3.206017462,1,563,2.751279104,1
+TSEC3494,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,sp,BdGPL,1.088015584,2.839235564,1,446.6,2.650890078,1
+TSEC3495,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Agalychnis,hulli,,1.020149341,0.990374796,0,0,0,0
+TSEC3496,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Dendropsophus,sarayacuensis,BdGPL,1.05921251,2.175995245,1,88.09,1.949828959,1
+TSEC3497,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,sp,,1.021162575,0.985750778,0,0.3104,0.117403884,1
+TSEC3498,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,sp,,1.016936576,0.98335792,0,0,0,0
+TSEC3499,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,sp,BdGPL,1.080712679,2.671901836,1,42.4,1.63748973,1
+TSEC3500,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Boana,appendiculata,,1.00986743,0.977012175,0,0,0,0
+TSEC3501,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Phyllomedusa,sp,,1.011502633,0.983806191,0,0,0,0
+TSEC3502,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Phyllomedusa,vaillantii,,1.023187414,1.039533754,0,0,0,0
+TSEC3503,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,sp,,1.023807154,0.990760706,0,3.369,0.640382045,1
+TSEC3552,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,sp,,1.019874591,0.999259741,0,2.021,0.480150725,1
+TSEC3553,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.015508311,0.994186437,0,0,0,0
+TSEC3554,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.022154461,0.992977852,0,0,0,0
+TSEC3555,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.018768018,0.993474771,0,0,0,0
+TSEC3556,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.021837732,0.997860998,0,0,0,0
+TSEC3557,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.019210572,1.003658511,0,0,0,0
+TSEC3558,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,sp,BdGPL,1.102576482,3.237249316,1,85.98,1.939419403,1
+TSEC3559,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,BdGPL,1.042576967,1.561529144,1,303,2.482873584,1
+TSEC3560,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.021262916,1.00206407,0,3.232,0.626545659,1
+TSEC3561,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Bufonidae,Rhinella,festae,,1.028166034,0.989436409,0,0,0,0
+TSEC3562,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,BdGPL,1.1742653,4.23637431,1,497.3,2.697490887,1
+TSEC3563,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.031805624,1.05698627,0,1.537,0.404320467,1
+TSEC3564,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Phyllomedusa,vaillantii,,1.013004358,0.993401454,0,0,0,0
+TSEC3565,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,BdGPL,1.197940474,4.358441015,1,7943,3.900039235,1
+TSEC3566,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.018834164,0.998686434,0,0,0,0
+TSEC3567,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.011986382,0.987426912,0,0,0,0
+TSEC3568,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.002194666,0.971731153,0,0,0,0
+TSEC3569,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.007320607,0.979805676,0,0,0,0
+TSEC3571,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Bufonidae,Rhinella,festae,,1.016495337,0.995245383,0,0,0,0
+TSEC3572,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.01769402,0.988408064,0,10.04,1.042969073,1
+TSEC3573,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.024777765,1.00476778,0,2.621,0.558828525,1
+TSEC3576,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,BdGPL,1.309532628,5.195163526,1,11010,4.041826763,1
+TSEC3577,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.036332619,1.295384198,0,3.356,0.639087871,1
+TSEC3578,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.028668768,1.004281287,0,5.37,0.804139432,1
+TSEC3579,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.037050185,1.025545423,0,2.004,0.477699928,1
+TSEC3580,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.049201558,1.207694335,0,5.617,0.820661135,1
+TSEC3581,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.024583527,1.000754037,0,0,0,0
+TSEC3582,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,BdGPL,1.189162107,4.366839111,1,616,2.790285164,1
+TSEC3583,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,sp,,1.03691781,1.013228741,0,0,0,0
+TSEC3584,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,sp,,1.042970848,1.111131577,0,5.414,0.807128956,1
+TSEC3585,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.039211683,1.018899172,0,1.669,0.426348574,1
+TSEC3586,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.035508687,1.012464042,0,1.892,0.461198289,1
+TSEC3587,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.032607143,1.009336934,0,0,0,0
+TSEC3588,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Phyllomedusa,vaillantii,,1.031501543,1.009467845,0,0,0,0
+TSEC3589,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.032660587,1.012737765,0,0,0,0
+TSEC3590,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.013463523,0.993717117,0,0,0,0
+TSEC3591,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.020649876,0.967812391,0,19.34,1.308350949,1
+TSEC3592,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.021587057,0.999055068,0,0,0,0
+TSEC3593,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.027453431,1.009048942,0,0,0,0
+TSEC3594,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.026623623,1.017656565,0,1.411,0.38219721,1
+TSEC3595,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.022367005,1.004883693,0,0,0,0
+TSEC3596,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.021414882,1.002911178,0,0,0,0
+TSEC3597,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Hylidae,Boana,ventrimaculata,,1.015860452,0.990723227,0,0,0,0
+TSEC3598,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.020046946,1.149625546,0,6.51,0.875639937,1
+TSEC3600,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Leptodactylidae,Engystomops,sp,BdGPL,1.086274507,3.046830573,1,392.4,2.594834356,1
+TSEC3601,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.020815679,1.355623987,0,11.54,1.098297536,1
+TSEC3602,2023,-1.331925,-77.877075,Zanja Arajuno,Anura,Strabomantidae,Pristimantis,lanthanites,,1.02167687,1.005534297,0,2.514,0.545801757,1
+TSEC754,2021,-0.116799,-80.122493,JCR,Anura,Hylidae,Scinax,quinquefasciatus,BdGPL,1.062315333,3.154707042,1,0,0,0
+TSEC755,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,BdGPL,1.068637575,3.429491647,1,0,0,0
+TSEC757,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,,,0,0,0,0
+TSEC758,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,0.989265625,0.993712264,0,0,0,0
+TSEC759,2021,-0.116799,-80.122493,JCR,Anura,Leptodactylidae,Leptodactylus,sp,,0.993365921,1.005245902,0,0,0,0
+TSEC760,2021,-0.116799,-80.122493,JCR,Anura,Hylidae,Smilisca,phaeota,,0.979462691,0.99252152,0,0,0,0
+TSEC761,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Barycholos,pulcher,,0.982530228,0.987405926,0,0,0,0
+TSEC762,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,0.993231557,0.994972854,0,0,0,0
+TSEC763,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Barycholos,pulcher,,0.986741874,0.984941805,0,0,0,0
+TSEC764,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,0.986238482,0.984830225,0,4.039,0.702344358,1
+TSEC765,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,0.995318571,1.002665916,0,0,0,0
+TSEC766,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,0.975602316,0.968875349,0,0,0,0
+TSEC767,2021,-0.116799,-80.122493,JCR,Anura,Hylidae,Scinax,quinquefasciatus,,0.998749552,1.001131182,0,0,0,0
+TSEC768,2021,-0.116799,-80.122493,JCR,Anura,Strabomantidae,Pristimantis,achatinus,,0.989322447,0.991764082,0,0,0,0
+TSEC769,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,ornatissimus,,0.989354673,0.989779091,0,0,0,0
+TSEC771,2021,0.165637,-78.879234,Mashpi,Anura,Hylidae,Hyloscirtus,mashpi,,0.992613378,0.994357565,0,5.04,0.781036939,1
+TSEC772,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.990872872,0.987098314,0,0,0,0
+TSEC773,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.995938676,0.999211647,0,0,0,0
+TSEC774,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.988386021,0.995613858,0,0,0,0
+TSEC775,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.994007713,0.994761672,0,0,0,0
+TSEC776,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,0.989578726,0.993266615,0,0,0,0
+TSEC777,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,0.997260218,1.002173919,0,0,0,0
+TSEC778,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.998788233,1.003002625,0,0,0,0
+TSEC779,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,latidiscus,,0.973299236,0.980181793,0,0,0,0
+TSEC780,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.999144983,1.005798142,0,0,0,0
+TSEC781,2021,0.165637,-78.879234,Mashpi,Anura,Hylidae,Hyloscirtus,mashpi,,0.994310221,0.990520105,0,0,0,0
+TSEC782,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,colomai,,0.988867549,0.987961841,0,0,0,0
+TSEC783,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.996143091,1.007247139,0,33.99,1.543943942,1
+TSEC784,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.996758346,0.997235367,0,0,0,0
+TSEC785,2021,0.165637,-78.879234,Mashpi,Anura,Hylidae,Hyloscirtus,mashpi,,0.989385897,0.99109121,0,0,0,0
+TSEC786,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.984403875,0.990142011,0,0,0,0
+TSEC787,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.982641097,0.993453268,0,0,0,0
+TSEC788,2021,0.165637,-78.879234,Mashpi,Anura,Hylidae,Hyloscirtus,mashpi,,0.981599632,0.978974941,0,0,0,0
+TSEC789,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.996592388,1.264379307,0,11.9,1.11058971,1
+TSEC790,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.962742465,0.968949118,0,0,0,0
+TSEC791,2021,0.165637,-78.879234,Mashpi,Anura,Hylidae,Hyloscirtus,mashpi,,0.97985382,0.985104155,0,0,0,0
+TSEC792,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.984931567,0.994467151,0,0,0,0
+TSEC793,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.991170076,1.002027627,0,0,0,0
+TSEC794,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.993425034,0.987319251,0,0,0,0
+TSEC795,2021,0.165637,-78.879234,Mashpi,Anura,Hylidae,Hyloscirtus,mashpi,,1.00016839,1.005864281,0,0,0,0
+TSEC796,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,BdGPL,1.155456863,4.258761118,1,858.1,2.934043719,1
+TSEC797,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.998584638,1.003092497,0,0,0,0
+TSEC798,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,0.995264687,0.996811025,0,0,0,0
+TSEC799,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,BdGPL,1.054049979,2.930810984,1,0,0,0
+TSEC800,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,1.00964198,1.01170714,0,0,0,0
+TSEC801,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.00819574,1.013366727,0,0,0,0
+TSEC802,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.004540238,1.023218071,0,0,0,0
+TSEC803,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.985654495,0.970294132,0,0,0,0
+TSEC804,2021,0.165637,-78.879234,Mashpi,Anura,Hylidae,Boana,picturata,,0.991917881,0.975116068,0,0,0,0
+TSEC805,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.991200842,0.976565029,0,0.3966,0.145072038,1
+TSEC806,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.995667816,0.97845724,0,6.024,0.846584503,1
+TSEC807,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.994583401,0.977277492,0,0,0,0
+TSEC808,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,0.997058795,0.978598383,0,0,0,0
+TSEC809,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,BdGPL,1.055366189,2.399964208,1,85.89,1.938969797,1
+TSEC810,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.999021269,0.981832698,0,0,0,0
+TSEC811,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.991878107,0.971305326,0,0,0,0
+TSEC812,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,muricatus,,0.998436685,0.981089046,0,0,0,0
+TSEC813,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,0.992493714,0.979584043,0,0,0,0
+TSEC814,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.000581891,0.982046235,0,0,0,0
+TSEC815,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,luteolateralis,,1.007769734,0.99847779,0,0,0,0
+TSEC816,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,luteolateralis,,0.989982235,0.984168089,0,0,0,0
+TSEC817,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.01247948,1.00464154,0,0,0,0
+TSEC818,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,BdGPL,1.078016129,2.484577759,1,725.4,2.861175836,1
+TSEC819,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,1.001497172,1.164696111,0,4.309,0.725012725,1
+TSEC820,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,latidiscus,,1.002518577,0.989935975,0,0,0,0
+TSEC821,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.00274125,0.990032518,0,1.563,0.408748606,1
+TSEC822,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.005036014,0.992452122,0,0,0,0
+TSEC823,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.02647978,1.025890297,0,0,0,0
+TSEC824,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,BdGPL,1.014924643,1.554342303,1,29.85,1.489255168,1
+TSEC825,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,latidiscus,,1.00432776,0.991760796,0,0,0,0
+TSEC826,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.001770968,1.083004868,0,5.188,0.791550305,1
+TSEC827,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,latidiscus,,1.007765768,0.990421021,0,0,0,0
+TSEC828,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,latidiscus,BdGPL,1.153874552,4.080240556,1,981.6,2.99237676,1
+TSEC829,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.991792941,0.984128779,0,0,0,0
+TSEC830,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.006023648,1.004021122,0,3.095,0.612253906,1
+TSEC831,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.991725282,0.977348344,0,0,0,0
+TSEC832,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,latidiscus,,1.006469454,0.993546687,0,3.177,0.620864475,1
+TSEC833,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.005231538,0.993777917,0,1.737,0.437274797,1
+TSEC834,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.001647125,0.992087002,0,0,0,0
+TSEC835,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,yumbo,,1.003428161,0.988536638,0,0,0,0
+TSEC836,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,0.991007452,0.975811915,0,0,0,0
+TSEC837,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.993654606,0.985019763,0,0,0,0
+TSEC838,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.001441562,0.993488236,0,2.138,0.496652939,1
+TSEC839,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,1.005345161,0.99041312,0,0,0,0
+TSEC841,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.996882429,0.981516192,0,0.02017,0.008672548,1
+TSEC842,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,0.996836832,0.980192246,0,0,0,0
+TSEC843,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.994062821,1.003667276,0,7.638,0.9364132,1
+TSEC844,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,achatinus,,1.00474139,1.113639566,0,5.393,0.805704704,1
+TSEC845,2021,0.165637,-78.879234,Mashpi,Anura,Hylidae,Hyloscirtus,mashpi,,0.993958248,0.978357371,0,0,0,0
+TSEC846,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.997468812,0.989717658,0,0,0,0
+TSEC847,2021,0.165637,-78.879234,Mashpi,Anura,Hylidae,Hyloscirtus,mashpi,BdGPL,1.116954956,3.621152143,1,1543,3.188647296,1
+TSEC848,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.993187402,0.987264497,0,0,0,0
+TSEC849,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.996459638,0.98410171,0,4.077,0.705607163,1
+TSEC850,2021,0.165637,-78.879234,Mashpi,Anura,Strabomantidae,Pristimantis,labiosus,,0.984295276,0.970769265,0,0,0,0
