@@ -1,0 +1,167 @@
+---
+title: "R script: Community-wide genotyping of the amphibian chytrid fungus (*Batrachochytrium dendrobatidis*) in Ecuadorian forests"
+author: "Wesley J. Neely"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+# Setup
+
+```{r setup, warning = FALSE, message = FALSE}
+# Load packages
+library(tidyverse)
+library(readr)
+library(glmmTMB)
+library(Hmisc)
+
+```
+
+# Data import
+
+```{r data}
+
+# Import and subset data
+Data <- read_csv("Dataset_EcuaGeno.csv")
+
+# Subset to only infected samples
+Data_sub <- filter(Data, Bd_Load_Log > 0)
+
+# Subset to only include successfully genotyped samples 
+Data_sub2 <- filter(Data, Genotyped == 1)
+
+```
+
+# Prevalence Calculations
+
+```{r prev}
+### Function to Calculate Prevalence
+calculate_prevalence <- function(data, group_column, infection_column, 
+                                 confidence_level) {
+  unique_groups <- unique(data[[group_column]])
+  result_df <- data.frame(Group = character(), Prevalence = numeric(), 
+                          CI_Lower = numeric(), CI_Upper = numeric(), 
+                          stringsAsFactors = FALSE)
+  
+  for (group_name in unique_groups) {
+    # Filter data for the specific group
+    group_data <- data[data[[group_column]] == group_name, ]
+    
+    # Count the number of individuals in the group
+    total_count <- nrow(group_data)
+    
+    # Count the number of infected individuals in the group
+    infected_count <- sum(group_data[[infection_column]] == 1)
+    
+    # Calculate prevalence
+    prevalence <- (infected_count / total_count) * 100
+    
+    # Calculate binomial confidence interval
+    ci <- binom.test(infected_count, total_count, 
+                     conf.level = confidence_level)$conf.int
+    ci_lower <- 100 * ci[1]
+    ci_upper <- 100 * ci[2]
+    
+    # Add results to the data frame
+    result_df <- rbind(result_df, data.frame(
+      Group = group_name,
+      Prevalence = prevalence,
+      CI_Lower = ci_lower,
+      CI_Upper = ci_upper
+    ))
+  }
+  
+  # Return the result data frame
+  return(result_df)
+}
+
+# Run the function
+Bd_local_Prev <- calculate_prevalence(Data,         # Dataset
+                                    "Location",     # Grouping variable
+                                    "Bd_status",    # Infection coded as 
+                                                    # 0= Uninfected, 1= Infected
+                                    0.95)           # Confidence level
+
+Bd_Family_Prev <- calculate_prevalence(Data,        # Dataset
+                                    "Family",       # Grouping variable
+                                    "Bd_status",    # Bd infection coded as 
+                                                    # 0= Uninfected, 1= Infected
+                                    0.95)           # Confidence level
+
+Bd_Genus_Prev <- calculate_prevalence(Data,         # Dataset
+                                    "Genus",        # Grouping variable
+                                    "Bd_status",    # Bd infection coded as 
+                                                    # 0= Uninfected, 1= Infected
+                                    0.95)           # Confidence level
+
+Genotype_local_Prev <- calculate_prevalence(Data,   # Dataset
+                                    "Location",     # Grouping variable
+                                    "Genotyped",    # Genotyping success coded 
+                                                    # as 0= Not, 1= Genotyped
+                                    0.95)           # Confidence level
+
+Genotype_Family_Prev <- calculate_prevalence(Data,  # Dataset
+                                    "Family",       # Grouping variable
+                                    "Genotyped",    # Genotyping success coded 
+                                                    # as 0= Not, 1= Genotyped
+                                    0.95)           # Confidence level
+
+Genotype_Genus_Prev <- calculate_prevalence(Data,   # Dataset
+                                    "Genus",        # Grouping variable
+                                    "Genotyped",    # Genotyping success coded 
+                                                    # as 0= Not, 1= Genotyped
+                                    0.95)           # Confidence level
+
+```
+
+# Generalized linear models
+
+```{r GLMs}
+
+# Generalized linear model comparing genotyping to infection status
+model1 <- glmmTMB(Genotyped ~ Bd_status, family=binomial(link='logit'), data = Data)
+summary(model1)
+
+# Generalized linear model comparing genotyping to infection loads
+model2 <- glmmTMB(Genotyped ~ Bd_Load_Log, family=binomial(link='logit'), data = Data_sub)
+summary(model2)
+
+```
+# Linear regression
+
+```{r regression}
+
+# Linear model comparing genotype fluorescence to infection loads
+Fluor_Loads_regression <- lm(Bd_Load_Log ~ Geno_Fluorescence_GPL, 
+                             data = Data_sub2)
+summary(Fluor_Loads_regression)
+
+```
+
+# Plot figures
+
+```{r figures}
+
+# Violin plot showing *Bd* loads for samples that were genotyped (no fill) 
+# or not genotyped (gray)
+Load_Violin <- Data_sub %>%
+  ggplot(aes(as.factor(Genotyped), Bd_Load_Log, 
+             fill = as.factor(Genotyped))) +
+  geom_violin() +
+  geom_boxplot(width=0.2) +
+  scale_fill_manual(values=c('#999999','NA')) +
+  theme_classic()
+Load_Violin
+
+# Scatter plot with trendlines showing *Bd* loads vs genotyping assay 
+# fluorescence, split by samples that were genotyped (red) or not 
+# genotyped (gray)
+Fluor_Scatter <- Data %>%
+  ggplot(aes(Bd_Load_Log, Geno_Fluorescence_GPL, 
+             color = as.factor(Genotyped))) +
+  geom_point() +
+  geom_smooth(method="lm", se=FALSE) +
+  scale_color_manual(values=c('#999999','#d46a74')) +
+  theme_classic()
+Fluor_Scatter
+
+```
